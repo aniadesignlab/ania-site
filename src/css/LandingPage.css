@@ -1,0 +1,29 @@
+body {
+    background-color: #710000;
+}
+
+h1 {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    line-height: 76px;
+    font-size: 50px;
+    color: white;
+    width: 612px;
+    height: 209px;
+}
+
+p {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 47px;
+    font-size: 30px;
+    width: 513px;
+    height: 212px;
+    color: #FFFFFF;
+    
+}
+
+#landingcontainer {
+    margin-top: 180px;
+}

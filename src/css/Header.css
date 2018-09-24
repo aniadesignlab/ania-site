@@ -1,0 +1,26 @@
+#header > div ul li {
+    font-family: 'Montserrat';
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+
+#header > div ul {
+    list-style-type: none;
+    margin: 0;
+    margin-top: 96px;
+}
+
+#header > div ul li {
+    display: inline;
+    margin-right: 36px;
+}
+
+#header {
+    background-color: #710000;
+}
+
+#header img {
+    margin-right: 50px;
+    margin-top: 45px;
+}
