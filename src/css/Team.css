@@ -33,10 +33,21 @@
     padding-bottom: 124px;
 }
 
-#team-header p {
-    margin-bottom: 60px;
-}
-
 #team-about h2, #team-about p{
     text-align: center;
+}
+
+#team-photo {
+    margin-top: 62px;
+    margin-bottom: 74px;
+}
+
+#team-photo h3 {
+    font-family: 'Montserrat';
+    font-size: 24px;
+}
+
+#team-photo p {
+    font-family: 'Merriweather';
+    font-size: 20px;
 }
