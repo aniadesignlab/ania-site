@@ -1,6 +1,8 @@
 #footergrid {
     font-family: 'Montserrat';
     color: white;
+    background-color: #710000;
+    padding-top: 66px;
 }
 
 #connect h2 {
@@ -8,9 +10,13 @@
     font-weight: bolder;
 }
 
+#connect-push {
+    margin-top: 94px;
+}
+
 #connect #connect-push p {
-    font-family: 'Montserrat';
     font-size: 15px;
+    font-weight: bold;
 }
 
 #sitemap h2 {
@@ -26,5 +32,6 @@
 
 #sitemap ul li {
     font-size: 20px;
+    font-weight: bold;
     padding-bottom: 13px;
 }

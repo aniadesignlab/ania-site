@@ -1,4 +1,8 @@
 body {
+    margin: 0 auto;
+}
+
+#landingcontainer {
     background-color: #710000;
 }
 
@@ -12,7 +16,7 @@ h1 {
     height: 209px;
 }
 
-p {
+#landingcontainer p {
     font-family: 'Merriweather';
     font-style: normal;
     font-weight: normal;
@@ -25,5 +29,5 @@ p {
 }
 
 #landingcontainer {
-    margin-top: 50px;
+    padding-top: 50px;
 }

@@ -1,0 +1,42 @@
+#teamgrid {
+    background-color: white;
+}
+
+#teamgrid h2 {
+    color: #710000;
+    font-family: 'Montserrat';
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#teamgrid p {
+    color: black;
+    font-family: 'Merriweather';
+    font-size: 24px;
+    margin: 0px;
+}
+
+#team-header h2, p{
+    text-align: center;
+}
+
+#team-header h2 {
+    padding-top: 82px;
+    margin-bottom: 30px;
+}
+
+#team-about h2 {
+    margin-bottom: 30px;
+}
+
+#team-about {
+    padding-bottom: 124px;
+}
+
+#team-header p {
+    margin-bottom: 60px;
+}
+
+#team-about h2, p{
+    text-align: center;
+}

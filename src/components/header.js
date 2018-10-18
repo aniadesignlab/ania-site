@@ -7,9 +7,6 @@ import { Grid, Row, Col } from 'react-flexbox-grid';
 
 const Header = ({ siteTitle }) => (
   <div id="header">
-    <div >
-      
-    </div>
     <Grid>
       <Row>
         <Col md={3}>
