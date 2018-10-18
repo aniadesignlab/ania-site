@@ -6,7 +6,7 @@ body {
     background-color: #710000;
 }
 
-h1 {
+#landingcontainer h1 {
     font-family: 'Montserrat';
     font-weight: bold;
     line-height: 76px;

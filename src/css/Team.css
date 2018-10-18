@@ -16,7 +16,7 @@
     margin: 0px;
 }
 
-#team-header h2, p{
+#team-header h2, #team-header p{
     text-align: center;
 }
 
@@ -37,6 +37,6 @@
     margin-bottom: 60px;
 }
 
-#team-about h2, p{
+#team-about h2, #team-about p{
     text-align: center;
 }
