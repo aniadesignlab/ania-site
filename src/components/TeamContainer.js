@@ -2,6 +2,11 @@ import React from 'react'
 
 import '../css/Team.css'
 import {Grid, Row, Col} from 'react-flexbox-grid';
+import richard from '../images/team/richard.jpg';
+import alyzza from '../images/team/alyzza.jpg';
+import lara from '../images/team/lara.jpg';
+import amiel from '../images/team/amiel.jpg';
+import patrick from '../images/team/patrick.jpg';
 
 const TeamContainer = ({ siteTitle }) => (
   <Grid id="teamgrid">
@@ -15,22 +20,27 @@ const TeamContainer = ({ siteTitle }) => (
     </Row>
     <Row center="xs" id="team-photo">
       <Col className="team-card" xs>
+        <img src={richard} alt="Richard Photo"/>
         <h3>Richard Parayno</h3>
         <p>Operations Manager</p>
       </Col>
       <Col className="team-card" xs>
+        <img src={lara} alt="Lara Photo"/>
         <h3>Lara Severino</h3>
         <p>Creative Director</p>
       </Col>
       <Col className="team-card" xs>
+        <img src={patrick} alt="Patrick Photo"/>
         <h3>Patrick Naui</h3>
         <p>Founder, Chief Executive Officer</p>
       </Col>
       <Col className="team-card" xs>
+
         <h3>Alyzza Delgado</h3>
         <p>Lead Experience Designer</p>
       </Col>
       <Col className="team-card" xs>
+
         <h3>Amiel Bornales</h3>
         <p>Systems Developer</p>
       </Col>
