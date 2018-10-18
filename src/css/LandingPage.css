@@ -17,7 +17,7 @@ p {
     font-style: normal;
     font-weight: normal;
     line-height: 47px;
-    font-size: 30px;
+    font-size: 24px;
     width: 513px;
     height: 212px;
     color: #FFFFFF;
@@ -25,5 +25,5 @@ p {
 }
 
 #landingcontainer {
-    margin-top: 180px;
+    margin-top: 50px;
 }

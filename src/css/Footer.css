@@ -1,0 +1,30 @@
+#footergrid {
+    font-family: 'Montserrat';
+    color: white;
+}
+
+#connect h2 {
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+#connect #connect-push p {
+    font-family: 'Montserrat';
+    font-size: 15px;
+}
+
+#sitemap h2 {
+    font-size: 24px;
+    font-weight: bolder;
+    padding-bottom: 30px;
+}
+
+#sitemap ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+#sitemap ul li {
+    font-size: 20px;
+    padding-bottom: 13px;
+}
