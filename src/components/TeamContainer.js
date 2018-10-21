@@ -15,31 +15,31 @@ const TeamContainer = ({ siteTitle }) => (
         <h2>WHO WE ARE</h2>
       </Col>
       <Col md={12} xs={12}>
-        <p>We are an educational technology company committed in developing innovative interventions that will change how we learn.</p>
+        <p>We are an educational technology company committed to developing innovative interventions that change how we learn.</p>
       </Col>
     </Row>
-    <Row center="xs" id="team-photo">
-      <Col className="team-card" xs>
-        <img src={richard} alt="Richard Photo"/>
+    <Row center="md" id="team-photo">
+      <Col className="team-card" md>
+        <img src={richard} alt="Richard"/>
         <h3>Richard Parayno</h3>
         <p>Operations Manager</p>
       </Col>
-      <Col className="team-card" xs>
-        <img src={lara} alt="Lara Photo"/>
+      <Col className="team-card" md>
+        <img src={lara} alt="Lara"/>
         <h3>Lara Severino</h3>
         <p>Creative Director</p>
       </Col>
-      <Col className="team-card" xs>
-        <img src={patrick} alt="Patrick Photo"/>
+      <Col className="team-card" md>
+        <img src={patrick} alt="Patrick"/>
         <h3>Patrick Naui</h3>
         <p>Founder, Chief Executive Officer</p>
       </Col>
-      <Col className="team-card" xs>
+      <Col className="team-card" md>
 
         <h3>Alyzza Delgado</h3>
         <p>Lead Experience Designer</p>
       </Col>
-      <Col className="team-card" xs>
+      <Col className="team-card" md>
 
         <h3>Amiel Bornales</h3>
         <p>Systems Developer</p>

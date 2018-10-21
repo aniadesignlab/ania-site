@@ -1,0 +1,60 @@
+#portfoliogrid {
+    background-color: white;
+}
+
+#portfoliogrid h2 {
+    color: #710000;
+    font-family: 'Montserrat';
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#portfoliogrid h1 {
+    font-family: 'Montserrat';
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+#portfolio-header h2, #portfolio-header h1, #portfolio-brief{
+    text-align: center;
+}
+
+
+#portfolio-header h2 {
+    margin-top: 82px;
+    margin-bottom: 40px;
+}
+
+#portfoliogrid h2 {
+    color: #710000;
+    font-family: 'Montserrat';
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#portfoliogrid p {
+    color: black;
+    font-family: 'Merriweather';
+    font-size: 24px;
+    margin: 0px;
+}
+
+
+#portfolio-project {
+    margin-bottom: 20px;
+}
+
+#portfolio-header {
+    padding-bottom: 40px;
+}
+
+#portfolio-photo img{
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+
+#portfolio-photo {
+    padding-bottom: 140px;
+}

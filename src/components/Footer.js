@@ -19,10 +19,10 @@ const Footer = ({ siteTitle }) => (
         <Col md={6} xs={6} id="sitemap">
           <h2>SITEMAP</h2>
           <ul>
-            <li>WHO WE ARE</li>
-            <li>WHAT WE DO</li>
-            <li>WHAT WE'VE DONE</li>
-            <li>OUR BLOG</li>
+            <li><a href="#team-header">WHO WE ARE</a></li>
+            <li><a href="#about-header">WHAT WE DO</a></li>
+            <li><a href="#portfolio-header">OUR PORTFOLIO</a></li>
+            <li><a href="http://www.medium.com">OUR BLOG</a></li>
           </ul>
         </Col>
       </Row>

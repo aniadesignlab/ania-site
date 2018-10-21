@@ -14,10 +14,10 @@ const Header = ({ siteTitle }) => (
         </Col>
         <Col md={9}>
           <ul>
-            <li>WHO WE ARE</li>
-            <li>WHO WE DO</li>
-            <li>WHAT WE'VE DONE</li>
-            <li>OUR BLOG</li>
+            <li><a href="#team-header">WHO WE ARE</a></li>
+            <li><a href="#about-header">WHAT WE DO</a></li>
+            <li><a href="#portfolio-header">OUR PORTFOLIO</a></li>
+            <li><a href="http://www.medium.com">OUR BLOG</a></li>
           </ul>
         </Col>
       </Row>

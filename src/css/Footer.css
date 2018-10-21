@@ -36,3 +36,12 @@
     font-weight: 600;
     padding-bottom: 13px;
 }
+
+#sitemap ul a {
+    text-decoration: none;
+    color: white;
+}
+
+#sitemap ul a:hover {
+    text-decoration: underline;
+}

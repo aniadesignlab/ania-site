@@ -1,0 +1,43 @@
+#aboutgrid {
+    font-family: 'Montserrat';
+    color: white;
+    background-color: #710000;
+    padding-top: 80px;
+
+}
+
+#about-header h2, #about-header p{
+    text-align: center;
+}
+
+#about-header h2 {
+    margin-bottom: 40px;
+}
+
+#aboutgrid h2 {
+    color: #ffffff;
+    font-family: 'Montserrat';
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#aboutgrid p {
+    color: #ffffff;
+    font-family: 'Merriweather';
+    font-size: 24px;
+    margin: 0px;
+}
+
+#about-header {
+    padding-bottom: 130px;
+}
+
+#about-photo img{
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+
+#about-photo {
+    padding-bottom: 140px;
+}
