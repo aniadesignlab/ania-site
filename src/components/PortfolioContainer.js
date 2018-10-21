@@ -3,9 +3,9 @@ import React from 'react'
 import '../css/Portfolio.css'
 import {Grid, Row, Col} from 'react-flexbox-grid';
 
-import portfolio1a from '../images/portfolio/dps/portfolio1-1.jpg';
-import portfolio1b from '../images/portfolio/dps/portfolio1-2.jpg';
-import portfolio1c from '../images/portfolio/dps/portfolio1-3.jpg';
+var portfolio1a = require('../images/portfolio/dps/portfolio1-1.jpg');
+var portfolio1b = require('../images/portfolio/dps/portfolio1-2.jpg');
+var portfolio1c = require('../images/portfolio/dps/portfolio1-3.jpg');
 
 
 

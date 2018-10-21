@@ -2,11 +2,11 @@ import React from 'react'
 
 import '../css/Team.css'
 import {Grid, Row, Col} from 'react-flexbox-grid';
-import richard from '../images/team/richard.jpg';
-import alyzza from '../images/team/alyzza.jpg';
-import lara from '../images/team/lara.jpg';
-import amiel from '../images/team/amiel.jpg';
-import patrick from '../images/team/patrick.jpg';
+var richard = require('../images/team/richard.jpg');
+var alyzza = require('../images/team/alyzza.jpg');
+var lara = require('../images/team/lara.jpg');
+var amiel = require('../images/team/amiel.jpg');
+var patrick =  require('../images/team/patrick.jpg');
 
 const TeamContainer = ({ siteTitle }) => (
   <Grid id="teamgrid">

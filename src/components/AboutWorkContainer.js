@@ -3,9 +3,9 @@ import React from 'react'
 import '../css/About.css'
 import {Grid, Row, Col} from 'react-flexbox-grid';
 
-import img1 from '../images/about/about1.jpg';
-import img2 from '../images/about/about2.jpg';
-import img3 from '../images/about/about3.jpg';
+var img1 = require('../images/about/about1.jpg');
+var img2 = require( '../images/about/about2.jpg');
+var img3 = require( '../images/about/about3.jpg');
 
 const AboutWorkContainer = ({ siteTitle }) => (
     <div id="aboutgrid">
