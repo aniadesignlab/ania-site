@@ -21,7 +21,7 @@ const PortfolioContainer = ({ siteTitle }) => (
                     <h1>DISASTER PREPAREDNESS SIMULATOR</h1>
                 </Col>
                 <Col md={12} xs={12} id="portfolio-brief">
-                    <p>A disaster preparedness learning experience where users are immersed in various disasters in a controlled environment. Through the use of simulated experiences, students can understand the effects of actions and decisions they make during various disaster situations while applying the necessary safety measures.</p>
+                    <p>A Virtual Reality disaster preparedness learning experience where users are immersed in various disasters in a controlled environment. Through the use of simulated experiences, students can understand the effects of actions and decisions they make during various disaster situations while applying the necessary safety measures.</p>
                 </Col>
             </Row>
             <Row center="md" id="portfolio-photo">

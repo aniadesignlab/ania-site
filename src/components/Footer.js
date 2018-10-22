@@ -22,7 +22,7 @@ const Footer = ({ siteTitle }) => (
             <li><a href="#team-header">WHO WE ARE</a></li>
             <li><a href="#about-header">WHAT WE DO</a></li>
             <li><a href="#portfolio-header">OUR PORTFOLIO</a></li>
-            <li><a href="http://www.medium.com">OUR BLOG</a></li>
+            <li><a href="https://medium.com/ania-design-lab">OUR BLOG</a></li>
           </ul>
         </Col>
       </Row>
