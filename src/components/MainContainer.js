@@ -36,7 +36,7 @@ const MainContainer = ({ children }) => (
               </Row>
               <Row>
                 <Col md={12}>
-                  <p>At Ania Design Lab, we develop innovative interventions that change how we learn.</p>
+                  <p>At Ania Design Lab, we create innovative interventions that change how we learn.</p>
                 </Col>
               </Row>
             </div>

@@ -9,8 +9,8 @@ const Header = ({ siteTitle }) => (
   <div id="header">
     <Grid>
       <Row>
-        <Col md={3}>
-          <img src={anialogo} alt="Ania Logo" style={{width: 160, height: 100}}/>
+        <Col md={2}>
+          <img src={anialogo} alt="Ania Logo"/>
         </Col>
         <Col md={9}>
           <ul>

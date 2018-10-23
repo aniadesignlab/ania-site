@@ -15,7 +15,7 @@
 }
 
 #connect #connect-push p {
-    font-size: 15px;
+    font-size: 14px;
     font-weight: bold;
     padding-bottom: 38px;
 }
@@ -23,7 +23,7 @@
 #sitemap h2 {
     font-size: 24px;
     font-weight: bolder;
-    padding-bottom: 30px;
+    padding-bottom: 15px;
 }
 
 #sitemap ul {
@@ -32,7 +32,7 @@
 }
 
 #sitemap ul li {
-    font-size: 20px;
+    font-size: 14px;
     font-weight: 600;
     padding-bottom: 13px;
 }
