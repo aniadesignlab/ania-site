@@ -13,7 +13,7 @@ var portfolio1c = require('../images/portfolio/dps/portfolio1-3.jpg');
 const PortfolioContainer = ({ siteTitle }) => (
     <div id="portfoliogrid">
         <Grid>
-            <Row id="portfolio-header">
+            <Row id="ourportfolio">
                 <Col md={12} xs={12}>
                     <h2>OUR PORTFOLIO</h2>
                 </Col>

@@ -1,13 +1,14 @@
 #header > div ul li {
     font-family: 'Montserrat';
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 700;
 }
 
 #header > div ul {
     list-style-type: none;
     margin: 0;
-    margin-top: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 #header > div ul li {
@@ -16,7 +17,7 @@
 }
 
 #header {
-    background-color: #710000;
+    background-color: #410000;
 }
 
 #header ul a {
@@ -31,6 +32,21 @@
 #header img {
     height: 100px;
     width: 160px;
-    margin-right: 50px;
     padding-bottom: 5px;
+}
+
+#header .menuButton {
+    color: white;
+    height: 50px;
+    width: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+@media only screen and (max-width: 770px) {
+    #header > div ul li {
+        display: block;
+
+        margin-bottom: 20px;
+    }
 }

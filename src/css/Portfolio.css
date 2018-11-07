@@ -16,12 +16,12 @@
 }
 
 
-#portfolio-header h2, #portfolio-header h1, #portfolio-brief{
+#ourportfolio h2, #ourportfolio h1, #portfolio-brief{
     text-align: center;
 }
 
 
-#portfolio-header h2 {
+#ourportfolio h2 {
     margin-top: 82px;
     margin-bottom: 20px;
 }
@@ -45,7 +45,7 @@
     margin-bottom: 20px;
 }
 
-#portfolio-header {
+#ourportfolio {
     padding-bottom: 40px;
 }
 

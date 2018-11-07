@@ -6,11 +6,11 @@
 
 }
 
-#about-header h2, #about-header p{
+#whatwedo h2, #whatwedo p{
     text-align: center;
 }
 
-#about-header h2 {
+#whatwedo h2 {
     margin-bottom: 40px;
 }
 
@@ -28,7 +28,7 @@
     margin: 0px;
 }
 
-#about-header {
+#whatwedo {
     padding-bottom: 40px;
 }
 

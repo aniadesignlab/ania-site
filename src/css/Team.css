@@ -16,11 +16,11 @@
     margin: 0px;
 }
 
-#team-header h2, #team-header p{
+#whoweare h2, #whoweare p{
     text-align: center;
 }
 
-#team-header h2 {
+#whoweare h2 {
     padding-top: 82px;
     margin-bottom: 40px;
 }
@@ -60,4 +60,9 @@
     width: 201px;
     height: 201px;
     border-radius: 50%;
+}
+
+.team-card {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }

@@ -9,10 +9,9 @@ body {
 #landingcontainer h1 {
     font-family: 'Montserrat';
     font-weight: bold;
-    line-height: 76px;
+
     font-size: 40px;
     color: white;
-    width: 612px;
     height: 209px;
 }
 
@@ -22,7 +21,7 @@ body {
     font-weight: normal;
     line-height: 47px;
     font-size: 20px;
-    width: 513px;
+
     height: 212px;
     color: #FFFFFF;
     
@@ -30,4 +29,15 @@ body {
 
 #landingcontainer {
     padding-top: 50px;
+}
+
+#landingcontainer img {
+    height: 200px;
+    float: right;
+}
+
+@media only screen and (max-width: 770px) {
+    #landingcontainer img {
+        display: none;
+    }
 }

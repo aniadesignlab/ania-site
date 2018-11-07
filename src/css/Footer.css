@@ -5,13 +5,19 @@
     padding-top: 66px;
 }
 
+#footergrid a {
+    text-decoration: underline;
+    color: white;
+}
+
+#footergrid .footerlogo {
+    width: 160px;
+    height: 100px;
+}
+
 #connect h2 {
     font-size: 24px;
     font-weight: bolder;
-}
-
-#connect-push {
-    margin-top: 94px;
 }
 
 #connect #connect-push p {
@@ -19,6 +25,8 @@
     font-weight: bold;
     padding-bottom: 38px;
 }
+
+
 
 #sitemap h2 {
     font-size: 24px;

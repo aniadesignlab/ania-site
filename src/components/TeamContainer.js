@@ -10,7 +10,7 @@ var patrick =  require('../images/team/patrick.jpg');
 
 const TeamContainer = ({ siteTitle }) => (
   <Grid id="teamgrid">
-    <Row id="team-header">
+    <Row id="whoweare">
       <Col md={12} xs={12}>
         <h2>WHO WE ARE</h2>
       </Col>
@@ -18,7 +18,7 @@ const TeamContainer = ({ siteTitle }) => (
         <p>We are an educational technology company committed to developing innovative interventions that change how we learn.</p>
       </Col>
     </Row>
-    <Row center="md" id="team-photo">
+    <Row center="xs" id="team-photo">
       <Col className="team-card" md>
         <img src={richard} alt="Richard"/>
         <h3>Richard Parayno</h3>
@@ -46,11 +46,11 @@ const TeamContainer = ({ siteTitle }) => (
       </Col>
     </Row>
     <Row id="team-about">
-      <Col md={6} xs={6}>
+      <Col md={6} xs={12}>
         <h2>HOW WE DO IT</h2>
         <p>We are constantly looking for opportunities to improve the learning experience of the Filipino people through the application of design thinking principles and research on emerging technologies.</p>
       </Col>
-      <Col md={6} xs={6}>
+      <Col md={6} xs={12}>
         <h2>OUR MISSION</h2>
         <p>Our mission is to design, develop, and deliver interventions to problems that hinder the learning experience of the stakeholders involved with our projects.</p>
       </Col>

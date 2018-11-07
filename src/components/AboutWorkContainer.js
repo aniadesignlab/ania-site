@@ -10,7 +10,7 @@ var img3 = require( '../images/about/about3.jpg');
 const AboutWorkContainer = ({ siteTitle }) => (
     <div id="aboutgrid">
         <Grid>
-            <Row id="about-header">
+            <Row id="whatwedo">
                 <Col md={12} xs={12}>
                     <h2>WHAT WE DO</h2>
                 </Col>
