@@ -7,7 +7,7 @@ import {Grid, Row, Col} from 'react-flexbox-grid';
 import illu from '../images/undraw_interaction_design_odgc.svg';
 
 import anialogo from '../images/logo-layered.png';
-import ogimage from '../images/logo-og.jpg';
+import ogimage from '../images/logo-og.png';
 
 
 import '../css/fonts.css'
