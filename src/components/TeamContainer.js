@@ -35,12 +35,12 @@ const TeamContainer = ({ siteTitle }) => (
         <p>Founder, Chief Executive Officer</p>
       </Col>
       <Col className="team-card" md>
-
+        <img src={alyzza} alt="Alyzza"/>
         <h3>Alyzza Delgado</h3>
         <p>Lead Experience Designer</p>
       </Col>
       <Col className="team-card" md>
-
+        <img src={amiel} alt="Alyzza"/>
         <h3>Amiel Bornales</h3>
         <p>Systems Developer</p>
       </Col>

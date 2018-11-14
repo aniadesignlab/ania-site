@@ -3,6 +3,7 @@
     color: white;
     background-color: #710000;
     padding-top: 66px;
+    padding-bottom: 15px;
 }
 
 #footergrid a {
@@ -26,12 +27,22 @@
     padding-bottom: 38px;
 }
 
+#connect ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+#connect ul li {
+    display: inline; 
+    padding-right: 15px;
+    font-size: 24px;
+}
+
 
 
 #sitemap h2 {
     font-size: 24px;
     font-weight: bolder;
-    padding-bottom: 15px;
 }
 
 #sitemap ul {

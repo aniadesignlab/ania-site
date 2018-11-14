@@ -15,7 +15,7 @@ const AboutWorkContainer = ({ siteTitle }) => (
                     <h2>WHAT WE DO</h2>
                 </Col>
                 <Col md={12} xs={12}>
-                    <p>The team’s expertise in learning experience design, systems development, user experience design, and application of design thinking principles have allowed the team to develop interventions for different sectors in the one country, one of which is the Disaster Preparedness Simulator.</p>
+                    <p>The team’s expertise in learning experience design, systems development, user experience design, and application of design thinking principles have allowed the team to develop interventions for different sectors in the country, one of which is the Disaster Preparedness Simulator.</p>
                 </Col>
             </Row>
             <Row center="md" id="about-photo">

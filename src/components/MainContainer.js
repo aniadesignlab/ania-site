@@ -7,6 +7,7 @@ import {Grid, Row, Col} from 'react-flexbox-grid';
 import illu from '../images/undraw_interaction_design_odgc.svg';
 
 import anialogo from '../images/logo-layered.png';
+import ogimage from '../images/logo-og.jpg';
 
 
 import '../css/fonts.css'
@@ -29,6 +30,19 @@ const MainContainer = ({ children }) => (
           title={data.site.siteMetadata.title}
         >
           <html lang="en"/>
+          <meta name="viewport" content="width=device-width, initial-scale=1"/>
+          <meta name="author" content="Richard Parayno - 2018"/>
+          <meta name="robots" content="index, follow"/>
+          <meta name="description" content="Developing innovative interventions to change the way we learn." />
+          <meta property="og:type" content="profile"/>
+          <meta property="og:url" content="https://aniadesignlab.org/" />
+          <meta property="og:title" content="Ania Design Lab" />
+          <meta property="og:description" content="Developing innovative interventions to change the way we learn." />
+          <meta property="og:image" content={ogimage} />
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:title" content="Ania Design Lab" />
+          <meta name="twitter:description" content="Developing innovative interventions to change the way we learn." />
+          <meta name="twitter:image" content={ogimage} />
         </Helmet>
         <div id="landingcontainer">
           <Grid>
